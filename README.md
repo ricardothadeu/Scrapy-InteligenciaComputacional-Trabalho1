@@ -1,2 +1,2 @@
-# Scrapy-InteligenciaComputacional-Trabaho1
+# Scrapy-InteligenciaComputacional-Trabalho1
 Primeiro trabalho da disciplina Inteligência Computacional
